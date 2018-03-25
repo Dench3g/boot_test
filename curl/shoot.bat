@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" -k -d "@rectangle.txt" http://localhost:8080/pol_info
